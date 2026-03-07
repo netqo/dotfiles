@@ -106,11 +106,11 @@ cd ~/dotfiles/suckless/slstatus && sudo make clean install
 
 ## Color Palette
 
-| Color | Hex | Usage |
-|---|---|---|
-| ![#444444](https://via.placeholder.com/12/444444/444444.png) | `#444444` | Dark gray |
-| ![#bbbbbb](https://via.placeholder.com/12/bbbbbb/bbbbbb.png) | `#bbbbbb` | Light gray |
-| ![#222222](https://via.placeholder.com/12/222222/222222.png) | `#222222` | Background |
-| ![#eeeeee](https://via.placeholder.com/12/eeeeee/eeeeee.png) | `#eeeeee` | Foreground |
-| ![#7a49a5](https://via.placeholder.com/12/7a49a5/7a49a5.png) | `#7a49a5` | Accent (purple) |
-| ![#49A57A](https://via.placeholder.com/12/49A57A/49A57A.png) | `#49A57A` | Accent (green) |
+```
+#444444  ██  Dark gray
+#bbbbbb  ██  Light gray
+#222222  ██  Background
+#eeeeee  ██  Foreground
+#7a49a5  ██  Accent (purple)
+#49A57A  ██  Accent (green)
+```
